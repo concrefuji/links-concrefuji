@@ -13,7 +13,7 @@ const contactLinks: LinkItem[] = [
   {
     label: 'Fale pelo WhatsApp',
     detail: 'Atendimento comercial',
-    href: 'https://wa.me/5585991180009?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento.',
+    href: 'https://api.whatsapp.com/send?phone=5585991180009&text=Ol%C3%A1%21%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento.',
     icon: 'whatsapp',
     external: true,
   },
